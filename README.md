@@ -1,4 +1,4 @@
-# DeepComputationalLinguistic
+# ComputationalLinguistic
 
 Resources collections of deep nlp or computational linguistics.
 
